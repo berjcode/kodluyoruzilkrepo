@@ -7,14 +7,14 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 * Öncellikle Projeyi Klonlayın 
 
-''' git clone berjcode/kodluyoruzilkrepo '''
+```  git clone berjcode/kodluyoruzilkrepo ``` 
 
 ## Kullanım
 
 Projeyi Clon'ladıktan sonra Visual Studio Code programını açın.
 
-''' cd kodluyoruzrepo '''
-''' code . '''
+```  cd kodluyoruzrepo ``` 
+```  code . ``` 
 
 ## License
 [MIT] (https://choosealicense.com/)
