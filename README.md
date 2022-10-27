@@ -17,4 +17,4 @@ Projeyi Clon'ladıktan sonra Visual Studio Code programını açın.
 ```  code . ``` 
 
 ## License
-[MIT] (https://choosealicense.com/)
+[MIT](https://wwww.choosealicense.com)
