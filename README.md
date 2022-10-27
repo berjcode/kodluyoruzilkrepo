@@ -2,19 +2,19 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 [Patika](www.patika.dev)
-#Installation 
+# Installation 
 
 
-*Öncellikle Projeyi Klonlayın 
+* Öncellikle Projeyi Klonlayın 
 
 ''' git clone berjcode/kodluyoruzilkrepo '''
 
-#Usage
+# Kullanım
 
 Projeyi Clon'ladıktan sonra Visual Studio Code programını açın.
 
-'''cd kodluyoruzrepo '''
-'''code . '''
+''' cd kodluyoruzrepo '''
+''' code . '''
 
-#License
-[MIT](https://choosealicense.com/)
+# License
+[MIT] (https://choosealicense.com/)
